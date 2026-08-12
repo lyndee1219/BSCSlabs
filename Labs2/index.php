@@ -5,8 +5,10 @@
     </head>
     <body>
         <h1>Navigate Pages:</h1>
-        <a href="index.php">Home</a>
-        <a href="about.php">About Us</a>
-        
+        <ul> 
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About Us</a></li>
+        </ul>
+
     </body>
 </html>
